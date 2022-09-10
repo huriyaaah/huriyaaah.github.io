@@ -7,7 +7,7 @@ body {
     overflow-x:hidden;
     font-family: 'Work Sans', sans-serif;
     min-width: 80%;
-    background-color: aliceblue;
+    background-color: #f0f8ff;
 }
 
 /* menu mobile */
@@ -34,7 +34,7 @@ body {
     display: block;
     width: 28px;
     height: 3px;
-    background-color:rgb(49, 28, 126);
+    background-color:#311c7e;
     border-radius:5px;
     transition: 0.20s;
 }
@@ -43,9 +43,9 @@ body {
 
 nav {
     display: flex;
-    background-color: rgb(179, 179, 243);
+    background-color: #b3b3f3;
     justify-content: space-around;
-    color: rgb(49, 28, 126);
+    color: #311c7e;
     height: 50px;
     align-items: center;
     position: fixed;
@@ -121,7 +121,7 @@ section{padding-top: 50px;}
     max-height: 30px;
     max-width: 200px;
     border-radius: 50px;
-    background-color: rgb(179, 179, 243);
+    background-color: #b3b3f3;
     color: rgb(49, 28, 126);
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
@@ -138,7 +138,7 @@ section{padding-top: 50px;}
 }
 
 .home span {
-    color: rgb(63, 65, 182);
+    color: #3f41b6;
     font-weight: bold;
 }
 
