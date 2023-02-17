@@ -171,6 +171,7 @@ section{padding-top: 50px;}
     /* margin: 0px auto; */
     /* padding: 30px 20px ; */
     text-align: center;
+    align-items: center;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
         "title title"
